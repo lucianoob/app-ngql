@@ -7,14 +7,16 @@ App de teste utilizando Nest e GraphQL.
 Para rodar o projeto deve-se utilizar os seguintes requisitos:
 - Nodejs
 - NestJS
-- NPM
+- GraphQL
 
 ## Componentes
 
 Os principais componentes utilizados neste projeto são:
-* Nodejs v12.17.0
-* NPM v6.14.4
-* NestJS v7.2.0
+* Nodejs v14.15.5
+* NPM v6.14.11
+* NestJS v7.6.12
+* Mongoose v7.2.3
+* GraphQL v15.5.0
 
 
 ## Instalação / Execução
@@ -29,5 +31,11 @@ Este projeto tem o objetivo testar o uso de NestJS com o uso de GrapQL.
 
 ## Telas
 
-### Tela de Login
-![Tela de Login](/screenshots/app-ngql_01.png)
+### Telas
+![Telas](/screenshots/app-ngql_01.png)
+
+![Telas](/screenshots/app-ngql_02.png)
+
+![Telas](/screenshots/app-ngql_03.png)
+
+![Telas](/screenshots/app-ngql_04.png)
